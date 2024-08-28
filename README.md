@@ -1,4 +1,4 @@
 ### Introduction
 
-- 🔭 I’m currently working on Web3.
-- 🌱 I’m currently learning Solidity.
+- Working on Web3.
+- Solidity/Rust/JS.
