@@ -1,4 +1,4 @@
 ### Introduction
 
-- Working on Web3.
-- Solidity/Rust/JS.
+- Freedom worker
+- Web2/3 Security
